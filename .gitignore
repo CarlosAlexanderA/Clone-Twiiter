@@ -1,0 +1,9 @@
+# Archivos de caché generados por el sistema
+.DS_Store
+
+# Directorios generados por npm o yarn
+node_modules/
+dist/
+
+# Archivos de registro
+*.log
